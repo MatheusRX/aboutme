@@ -2,7 +2,7 @@
 
 I'm a programming student and I've worked in the QA (Quality Assurance) area.
 
-### 💫 Liitle Bit More About Me
+### 💫 Little Bit More About Me
 
 - 😄 I'm looking for a job.
 - 📚 I'm currently studying Systems Analysis and Development at UNIFACS/BA.
